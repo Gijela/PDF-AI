@@ -12,7 +12,6 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@apideck/components": "^0.12.21",
     "@clerk/nextjs": "^4.29.3",
     "@headlessui/react": "^1.7.18",
     "@langchain/community": "^0.0.40",
@@ -68,5 +67,8 @@
     "prisma": "^5.2.0",
     "tsx": "^3.12.3",
     "typescript": "^5.2.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }

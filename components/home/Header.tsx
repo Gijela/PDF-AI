@@ -36,7 +36,7 @@ const Header = () => {
         <div className="sm:hidden absolute top-[54px] right-0 flex flex-col items-center bg-white shadow">
           <div className="border-b border-b-slate-200 p-3">
             <Link href="/dashboard" className="">
-              登录/注册2
+              登录/注册
             </Link>
           </div>
         </div>
